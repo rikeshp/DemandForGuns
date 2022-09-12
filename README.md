@@ -1,5 +1,5 @@
 # DemandForGuns
-Data Visualization built using the D3.js library. Can be viewed at https://rikeshp.github.io/Projects/demandforguns
+Data Visualization built using the D3.js library. Can be viewed at https://rikeshp.github.io/Projects/demandforguns/main.html
 ## README Outline
 Some questions that need to be answered as part of the repo:
 1. Where is the data coming from?
